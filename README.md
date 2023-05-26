@@ -9,5 +9,3 @@
 ⚽Meu esporte favorito é FUTEBOL!
 
 ▶️Estudo com os vídeos do ALURA!
-
-![](https://media.tenor.com/PvjNOdy8TgUAAAAd/ronaldinho.gif)
